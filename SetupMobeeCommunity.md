@@ -7,7 +7,7 @@ To set up Mobee Community, follow the steps below:
 
 * 1. Execute the Mobee procedure provided with the AppExchange. Provide the name of the Experience Cloud Site and any additional languages required.
 ```
-Mobee.SetupUtils.prepareMobeeResources("Customer_Site1", "fr");
+Mobee.SetupUtils.prepareMobeeResources('Customer_Site1', 'fr');
 ```
 
 * 2. You can also run the individual tools using the following sub-procedures:      
