@@ -16,7 +16,7 @@ Here after the list of the Salesforce features that work differently or that are
 ### Experience Cloud sites in the Salesforce mobile app are similar to the Lightning Experience desktop site, with some differences.
 ### Navigation and Actions: What’s Different or Not Available in the Mobee Mobile App
 ### Search    
-    Search is Not Available yest in the Mobee Mobile App
+    Search is Not Available yet in the Mobee Mobile App
 ### Entering Data: What’s Different or Not Available in the Mobee Mobile App
 ### Approvals: What’s Different or Not Available in the Mobee Mobile App
 ### Offline Access: What’s Different or Not Available in the Mobee Mobile App
