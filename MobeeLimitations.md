@@ -11,7 +11,7 @@ Here after the list of the Salesforce features that work differently or that are
 ### Reports and Dashboards: What’s Different or Not Available in the Salesforce Mobile App
 ### Salesforce Files: What’s Different or Not Available in the Salesforce Mobile App
 ### Chatter    
-    What’s Different or Not Available in the Salesforce Mobile App    
+    What’s Different or Not Available in the Mobee Mobile App    
 ### Experience Cloud Sites: What’s Different or Not Available in the Salesforce Mobile App
 ### Experience Cloud sites in the Salesforce mobile app are similar to the Lightning Experience desktop site, with some differences.
 ### Navigation and Actions: What’s Different or Not Available in the Salesforce Mobile App
