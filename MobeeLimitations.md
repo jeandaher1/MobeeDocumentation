@@ -10,8 +10,11 @@ Here after the list of the Salesforce features that work differently or that are
 ### Customer Service Features: What’s Different or Not Available in the Mobee Mobile App
 ### Reports and Dashboards: What’s Different or Not Available in the Mobee Mobile App
 ### Salesforce Files: What’s Different or Not Available in the Mobee Mobile App
+### Theme and Branding    
+ [Mobee Supported features](https://github.com/jeandaher1/MobeeDocumentation/blob/main/Community%20Supported%20Features.md)
 ### Chatter    
-    What’s Different or Not Available in the Mobee Mobile App    
+    What’s Different or Not Available in the Mobee Mobile App   
+    [Chatter limitation]()
 ### Experience Cloud Sites: What’s Different or Not Available in the Mobee Mobile App
 ### Experience Cloud sites in the Salesforce mobile app are similar to the Lightning Experience desktop site, with some differences.
 ### Navigation and Actions: What’s Different or Not Available in the Mobee Mobile App
