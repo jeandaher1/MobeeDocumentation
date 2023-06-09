@@ -25,8 +25,8 @@ Here after the list of the Salesforce features that work differently or that are
 ### Offline Access: What’s Different or Not Available in the Mobee Mobile App
 ### Salesforce Customization: What’s Different or Not Available in the Mobee Mobile App
 
-### Data Model
-    Limitations    
+### Data Model - Limitations    
+
     Field Owner.Alias not supported.
 
 
